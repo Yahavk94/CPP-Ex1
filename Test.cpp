@@ -4,7 +4,7 @@
 using namespace phonetic;
 
 /**
- * The following tests are used to check whether "find" works properly, given
+ * The following tests are used to check whether find method works properly, given
  * any text and any word.
  * @authors Yahav Karpel, Shoval Benayon and Daniel Korotine.
  */
