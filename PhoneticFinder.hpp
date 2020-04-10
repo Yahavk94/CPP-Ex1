@@ -2,7 +2,7 @@
 using namespace std;
 
 namespace phonetic {
-	string find(const string text, const string word);
+    string find(const string text, const string word);
 };
 
 void check(const string word1, const string word2);
