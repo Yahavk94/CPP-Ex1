@@ -6,8 +6,8 @@
 bool match = false;
 
 struct MyException : public exception {
-	const char* what() const throw() {
-    	return "did not find the word in the text";
+    const char* what() const throw() {
+        return "did not find the word in the text";
     }
 };
 
